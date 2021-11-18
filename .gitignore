@@ -27,3 +27,11 @@ DartConfiguration.tcl
 
 # Files created by OS
 *.DS_Store
+
+# NEAT artifacts
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+temp/
